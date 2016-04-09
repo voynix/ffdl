@@ -1,0 +1,5 @@
+# ignore pycharm
+.idea
+
+# ignore python byproducts
+*.pyc
