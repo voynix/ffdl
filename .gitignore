@@ -3,3 +3,6 @@
 
 # ignore python byproducts
 *.pyc
+
+# ignore any html files that end up in here somehow
+*.html
